@@ -7,7 +7,7 @@ I will update this folder everyday. Such that you can access all the C++ program
 
 All data structures covered.
 
-##If you can find anything wrong or less efficient please send Pull request.
+## If you can find anything wrong or less efficient please send Pull request.
 
 Thank you 
 
