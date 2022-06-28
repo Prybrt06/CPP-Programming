@@ -118,20 +118,15 @@ int main()
 
     if(check)
     {
-        cout << "true";
+        cout << "True";
     }
     
     else
     {
-        cout << "false";
+        cout << "False";
     }
-
-    // for(int i=0;i<9;i++)
-    // {
-    //     delete [] arr[i];
-    // }
-
-    // delete [] arr;
+    
+    return 0
 }
 
 /*
@@ -146,4 +141,5 @@ int main()
 0 0 0 0 0 0 0 7 4
 0 0 5 2 0 6 3 0 0
 
+-> True
 */
