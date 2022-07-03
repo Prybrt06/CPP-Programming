@@ -26,7 +26,7 @@ int getMinCost_DynamicProgramming(int **input,int m,int n)
 
     for(int i=m-2;i>=0;i--)
     {
-        for(int j=m-2;j>=0;j--)
+        for(int j=n-2;j>=0;j--)
         {
             int x = output[i+1][j];
             int y = output[i+1][j+1];
