@@ -9,6 +9,6 @@ All data structures covered.
 
 ## If you can find anything wrong or less efficient please send Pull request.
 
-Thank you 
+Thank you for visiting
 
 Happy Coding :-)
